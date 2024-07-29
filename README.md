@@ -1,5 +1,5 @@
 # Mini-Project-Library-Management-System
-# Below are the instructions and specs I was given before making the necessary changes
+# Below are the instructions and specs I was given before making the necessary changes 
 Project Requirements
 In this project, you will apply Object-Oriented Programming (OOP) principles in Python to develop an advanced Library Management System. This command-line-based application is designed to streamline the management of books and resources within a library. Your mission is to create a robust system that allows users to browse, borrow, return, and explore a collection of books while demonstrating your proficiency in OOP principles and the use of modules.
 
